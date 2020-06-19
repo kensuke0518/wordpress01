@@ -10,6 +10,7 @@
 　　　　　　<h2><?php the_title(); ?></h2>
 　　　　　　<?php the_content(); ?>
 　　　　　　<!-- //投稿表示ここまで -->
+<div>ここ</div>
 　　　　<?php endwhile; ?>
 　　　　　　<!-- ページ送りなど -->
 　　　　<?php else: ?>
